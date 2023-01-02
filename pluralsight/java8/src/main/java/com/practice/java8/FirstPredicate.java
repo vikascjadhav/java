@@ -13,10 +13,7 @@ public class FirstPredicate {
 
         Predicate<String> p1 = s -> s.length() > 3;
         Predicate<String> p2 = Predicate.isEqual("two");
-
         stream.filter(p1.or(p2)).forEach(System.out::println);
-
-
 
     }
 }
