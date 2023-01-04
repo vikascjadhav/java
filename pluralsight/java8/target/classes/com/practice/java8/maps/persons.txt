@@ -1,0 +1,6 @@
+Sarah 35 F
+Philip 30 M
+Nina 23 F
+Lucy 42 F
+Frank 18 M
+Tony 35 M
